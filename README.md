@@ -1,1 +1,5 @@
-###### This work is part of our machine learning project which aim to predict the cars safety ratings 
+Considering cars are one of the most used means of transportation today, car safety should be a top priority since choosing the wrong one may lead to serious injuries. Therefore, our study aims to predict a car's safety rating based on tests performed on different types of cars between 2016 and 2022. This depends on some characteristics, such as the side pelvis airbag-rear, belt pretensioner-rear and safety standards. Despite previous studies on predicting car and passenger safety, the dataset was limited in features. Moreover, the studies focused on the factors surrounding the vehicle, such as analyzing and measuring the road safety index, rather than the factors of the car itself. Accordingly, in our study, we will predict cars' safety ratings based on specific safety features of tested cars. Using Orange data mining software and Python programming, a model will be created using carefully selected machine learning algorithms As an expected result, the model will provide buyers with the car’s safety rating. The predicted output will be either “safe” or “not safe”.
+
+
+
+
